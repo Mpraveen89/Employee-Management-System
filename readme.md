@@ -1,4 +1,4 @@
-# Employee Management System
+# Employee Management System PRODIGY_FS_02
 
 > **Project Folder Name:** `employee`  \
 > **Database Name:** `employeeigniter`
